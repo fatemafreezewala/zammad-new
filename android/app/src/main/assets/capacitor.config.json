@@ -1,0 +1,6 @@
+{
+	"appId": "com.controller.zammad",
+	"appName": "SOS CONTROLLER",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

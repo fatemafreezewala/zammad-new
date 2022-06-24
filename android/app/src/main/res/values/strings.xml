@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SOS CONTROLLER</string>
+    <string name="title_activity_main">SOS CONTROLLER</string>
+    <string name="package_name">com.nadafa.sos</string>
+    <string name="custom_url_scheme">com.nadafa.sos</string>
+</resources>

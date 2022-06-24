@@ -1,0 +1,6 @@
+{
+	"appId": "com.nadafa.zammad",
+	"appName": "SOS NADAFA",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
